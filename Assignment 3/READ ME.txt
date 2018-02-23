@@ -1,0 +1,11 @@
+1) Before running main.m 
+
+2) To run statistical tests for the bump function to get c set statistical_test = 1; 
+						on line 24 (default 10 SA runs, 100 runs done in the report)
+
+3) To run statistical tests for the truss weight function to get optimal quadratic penalty set statistical_test = 1; 
+						on line 49 (default 5 iterations, 100 runs done in the report)
+
+4) By default the 100 SA run results are loaded into the workspace for the truss. 
+
+Run main.m
